@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e2578f2-7fdd-4a33-94d2-be09bfb16dbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account/account/src/main/java/com/cognizant/account/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-gateway/api-gateway/src/main/java/com/cognizant/api_gateway/filters/LogFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greet-service/greet-service/src/main/java/com/cognizant/greet_service/controller/GreetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loan/loan/src/main/java/com/cognizant/loan/controller/LoanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/AptpathApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/config/CookieConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/controller/PasswordResetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/entity/PasswordResetToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/repository/PasswordResetTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/service/PasswordResetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-employee-management/user-employee-management/src/main/java/com/aptpath/service/UserDetailsServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="307rvKszKI7yO6otLPnzFp5rkLl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EurekaDiscoveryServerApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "Spring Boot.EurekaDiscoveryServerApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/SUNDARA RAMARAO/Downloads/eureka-discovery-server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EurekaDiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="eureka-discovery-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cognizant.eureka_discovery_server.EurekaDiscoveryServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e2578f2-7fdd-4a33-94d2-be09bfb16dbf" name="Changes" comment="" />
+      <created>1752989682973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752989682973</updated>
+      <workItem from="1752989684917" duration="3833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
