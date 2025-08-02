@@ -1,0 +1,30 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+  text-align: center;
+}
+
+.office-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; /* Makes it responsive */
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 15px 20px;
+  width: 300px;
+  background-color: #f4f4f4;
+  text-align: left;
+}
+
+.office-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
